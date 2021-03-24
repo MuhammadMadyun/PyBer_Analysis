@@ -4,9 +4,8 @@
                                                               
 
   Overview of the Analysis of Ride-Sharing Data: 
-
-	The purpose of this analysis was to create a visualization depicting ride share data to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. The analysis of ride sharing data required the completion of (Aims 1 and 2): 1) create a data frame summarizing the ride-sharing data organized by city type, and 2) create a line chart depicting total fares, city type, and date. Aims 1 and 2 were accomplished using the programming language Python to write algorithms, a Pandas library to manipulate and analyze the data. Pandas was used along with a Jupyter notebook to read the raw data, clean, and inspect the data, merge data sets and perform calculations. Matplotlib was used to produce figures to visualize the data.
-  
+	The purpose of this analysis was to create a visualization depicting ride share data to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. The analysis of ride sharing data required the completion of (Aims 1 and 2): 1) create a data frame summarizing the ride-sharing data organized by city type, and 2) create a line chart depicting total fares, city type, and date. Aims 1 and 2 were accomplished using the programming language Python to write algorithms, a Pandas library to manipulate and analyze the data. Pandas was used along with a Jupyter notebook to read the raw data, clean, and inspect the data, merge data sets and perform calculations. Matplotlib was used to produce figures to visualize the data.	
+	
   Results:
 1.	As seen in the PyBer summary DataFrame, Urban cities have nearly 2,000 more drivers than suburban cities, and over 2,300 more than rural. This is even though average fares per driver are highest in rural areas and lowest in urban.
 2.	Urban cities have almost twice the amount in total fares as suburban cities, and the lowest average fare per ride.
